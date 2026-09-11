@@ -1,0 +1,36 @@
+
+> threadboss-web@0.1.0 dev
+> next dev
+
+   next-swc build: wasm build C:\Users\Lenovo\Downloads\THREADBOSS\node_modules\@next\swc-wasm-nodejs
+   next-swc build: wasm build C:\Users\Lenovo\Downloads\THREADBOSS\node_modules\@next\swc-wasm-nodejs
+   ▲ Next.js 15.5.25
+   - Local:        http://localhost:3000
+   - Network:      http://10.25.141.227:3000
+
+ ✓ Starting...
+ ✓ Ready in 6.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 33.7s (1763 modules)
+ GET / 200 in 94ms
+ GET / 200 in 249ms
+ ○ Compiling /sign-in ...
+ ✓ Compiled /sign-in in 1679ms (1767 modules)
+ GET /sign-in 200 in 2044ms
+ ○ Compiling /connect ...
+ ✓ Compiled /connect in 1336ms (1796 modules)
+ GET /connect 200 in 1969ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 4s (1817 modules)
+ GET /dashboard 200 in 4353ms
+ GET /connect 200 in 101ms
+ GET / 200 in 81ms
+ GET /connect 200 in 74ms
+ GET / 200 in 53ms
+ GET /sign-in 200 in 92ms
+ ○ Compiling /sign-up ...
+ ✓ Compiled /sign-up in 1333ms (1819 modules)
+ GET /sign-up 200 in 1635ms
+ GET /sign-in 200 in 147ms
+ GET /connect 200 in 451ms
+ GET / 200 in 79ms
